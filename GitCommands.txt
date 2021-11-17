@@ -12,3 +12,18 @@ GIT and GIT repositories example 'background-generator'
   10. git push
 
 11. git pull - to track changes
+
+***********************************************************
+CREATE BRANCHES
+
+***********************************************************
+
+1. git branch // retuns main as currently is the only one
+2. git branch littlefeature - creates a new branch
+3. git branch // returns both branches
+4. git checkout littlefeature // switch to littlefeature branch
+5. git status
+6. git add/rm files as needed
+7. git status
+8. git commit -m 
+9. git push --set-upstream origin littlefeature // creates the new branch and adds the new changes
