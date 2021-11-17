@@ -27,3 +27,13 @@ CREATE BRANCHES
 7. git status
 8. git commit -m 
 9. git push --set-upstream origin littlefeature // creates the new branch and adds the new changes
+
+**********************************************************
+GIT BRANCHES - BIG FEATURE
+**********************************************************
+
+1. git branch // retuns main as currently is the only one
+2. git branch bigfeature - creates a new branch
+3. git branch // returns both branches
+4. git checkout bigfeature // switch to bigfeature branch
+5. git status
