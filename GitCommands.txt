@@ -26,7 +26,7 @@ CREATE BRANCHES
 6. git add/rm files as needed
 7. git status
 8. git commit -m 
-9. git push --set-upstream origin littlefeature // creates the new branch and adds the new changes
+9. git push origin littlefeature // creates the new branch and adds the new changes
 
 **********************************************************
 GIT BRANCHES - BIG FEATURE
@@ -40,4 +40,4 @@ GIT BRANCHES - BIG FEATURE
 6. git add/rm files as needed
 7. git status
 8. git commit -m 
-9. git push --set-upstream origin bigfeature // creates the new branch and adds the new changes
+9. git push origin bigfeature // creates the new branch and adds the new changes
