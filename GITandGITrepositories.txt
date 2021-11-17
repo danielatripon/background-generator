@@ -1,0 +1,12 @@
+GIT and GIT repositories example 'background-generator'
+
+  1. Go the desired folder : cd /d
+  2. ls -> make sure you are on the right location
+  3. copy/clone link of the repo from github
+  4. write git clone https://github.com/danielatripon/background-generator.git -> whatever link
+  5. $ cd background-generator - go  the the main branch
+  6. git status - to check which files are new and needs to be added/ commited
+  7. git add style.css -> use this command for each file needed to be staged
+  8. git status -> check again if all files have been added
+  9. git commit -m "adding starting project" - commit with a message
+  1. git push

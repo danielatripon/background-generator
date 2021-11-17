@@ -1,0 +1,23 @@
+ls // list directories
+
+cd  // current directory
+cd .. // go one directory back
+clear
+cd / **—> root director**
+cd ~ // change to user directory
+cd <folder/folder/folder> ** <> means to add your own folder names that exist on your computer.
+mkdir <folder> // make directory
+start . <folder> // open folder
+echo "" > index.html // echo > index.html // create new file
+start index.html
+start . // open file
+mv index.html about.html
+*Try using the Up and Down arrow.
+
+mv index.html about.html
+code . // open vscode with that file
+rm <file> // delete file
+rm -r <folder> // delete folder
+
+dir // show directories
+
