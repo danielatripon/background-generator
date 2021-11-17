@@ -9,4 +9,6 @@ GIT and GIT repositories example 'background-generator'
   7. git add style.css -> use this command for each file needed to be staged
   8. git status -> check again if all files have been added
   9. git commit -m "adding starting project" - commit with a message
-  1. git push
+  10. git push
+
+11. git pull - to track changes
